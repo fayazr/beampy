@@ -36,7 +36,7 @@ The slides can also be exported to svg and pdf (videos and animations are render
 
 Beampy uses a simple cache system to compile slide only when it's needed!
 
-## A quick exemple :
+## A quick example :
 
 ```python
 from beampy import *
